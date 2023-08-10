@@ -11,7 +11,7 @@ pipeline {
         stage('Build APK Release') {
             steps {
                 script {
-                    sh 'sudo flutter update-packages --force-upgrade'
+                    //sh 'sudo flutter update-packages --force-upgrade'
                     sh 'sudo flutter build apk --release'
                 }
             }
