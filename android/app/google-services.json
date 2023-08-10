@@ -1,0 +1,55 @@
+{
+    "project_info": {
+        "project_number": "1880302412",
+        "firebase_url": "https://saarthi-pedagogy-a2936.firebaseio.com",
+        "project_id": "saarthi-pedagogy-a2936",
+        "storage_bucket": "saarthi-pedagogy-a2936.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1880302412:android:8ea6ed4fce4a96a0",
+                "android_client_info": {
+                    "package_name": "com.saarthipedagogy.students"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "1880302412-qauq4681fnkblljlafdo6hlj0r0jquf9.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.saarthipedagogy.students",
+                        "certificate_hash": "2dd0cff1f151ac9d30a11e0ab5b9c3f7ab63a004"
+                    }
+                },
+                {
+                    "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBow1iwDrWNbnumGZTW5A80DmK3FEKEU5g"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "1880302412-gjfjsc27s33umd10l8vd74j3bkftn27s.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "1880302412-604c8u3ek17r5hgu33g5ieugpafssatd.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.saarthipedagogy.teachers"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

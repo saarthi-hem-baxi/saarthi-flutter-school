@@ -1,0 +1,25 @@
+<svg width="414" height="195" viewBox="0 0 414 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="filter0_d_576_1125" x="0" y="-40" width="414" height="234" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.906667 0 0 0 0 0.906667 0 0 0 0 0.953333 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_576_1125"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_576_1125" result="shape"/>
+</filter>
+</defs>
+<g filter="url(#filter0_d_576_1125)">
+<path d="M0 -40H414V192H0V-40Z" fill="#2D459C"/>
+</g>
+<mask id="mask0_576_1125" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="414" height="195">
+<rect width="414" height="195" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_576_1125)">
+<path d="M290.426 -66.9374C294.812 -119.255 250.559 -172.23 225.962 -198.429L545.146 -14.1487L285.371 435.795L-215.542 146.593C-167.724 109.637 -34.5302 89.9772 129.917 83.7906C237.576 79.7404 283.165 19.6654 290.426 -66.9374Z" fill="white" fill-opacity="0.1"/>
+<path d="M323.478 -23.5468C328.268 -75.6314 285.185 -127.93 261.211 -153.77L573.735 26.6658L313.961 476.609L-176.503 193.44C-129.099 156.245 2.18834 135.485 164.118 127.845C270.13 122.843 315.548 62.67 323.478 -23.5468Z" fill="white" fill-opacity="0.1"/>
+<path d="M365.301 -16.3988C365.379 -97.0749 320.848 -126.294 302.115 -149.394L530.171 -17.7251L264.223 442.91L-45.2859 264.215C-14.8918 211.571 80.2842 171.762 222.527 150.352C315.649 136.336 365.22 68.4258 365.301 -16.3988Z" fill="white" fill-opacity="0.1"/>
+<path d="M395.303 18.4105C399.114 -26.3573 361.685 -78.3889 317.536 -111.351L555.447 26.0073L314.63 443.115L69.7779 298.138C97.2999 250.469 201.613 199.899 273.047 175.993C361.033 146.548 388.665 96.3947 395.303 18.4105Z" fill="white" fill-opacity="0.1"/>
+</g>
+</svg>

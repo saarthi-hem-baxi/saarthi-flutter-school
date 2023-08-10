@@ -1,0 +1,32 @@
+<svg width="25" height="27" viewBox="0 0 25 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="paint0_linear_217_753" x1="10.892" y1="6.18921" x2="10.892" y2="7.18921" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B4E39B"/>
+<stop offset="1" stop-color="#87D35F"/>
+</linearGradient>
+<linearGradient id="paint1_linear_217_753" x1="10.892" y1="10.1892" x2="10.892" y2="11.1892" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B4E39B"/>
+<stop offset="1" stop-color="#87D35F"/>
+</linearGradient>
+<linearGradient id="paint2_linear_217_753" x1="10.892" y1="14.1892" x2="10.892" y2="15.1892" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B4E39B"/>
+<stop offset="1" stop-color="#87D35F"/>
+</linearGradient>
+<linearGradient id="paint3_linear_217_753" x1="8.89197" y1="18.1892" x2="8.89197" y2="19.1892" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B4E39B"/>
+<stop offset="1" stop-color="#87D35F"/>
+</linearGradient>
+<clipPath id="clip0_217_753">
+<rect width="7.78378" height="7.78378" fill="white" transform="translate(15.9188 17.8649)"/>
+</clipPath>
+</defs>
+<path d="M11.5174 24.3513H3.49998C2.11927 24.3513 0.999983 23.2321 0.999983 21.8513V3.5C0.999983 2.11929 2.11927 1 3.49999 1H17.3108C18.6915 1 19.8108 2.11929 19.8108 3.5V12.4903" stroke="#3C3C3C" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="5.64197" y1="5.43921" x2="16.142" y2="5.43921" stroke="url(#paint0_linear_217_753)" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="5.64197" y1="9.43921" x2="16.142" y2="9.43921" stroke="url(#paint1_linear_217_753)" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="5.64197" y1="13.4392" x2="16.142" y2="13.4392" stroke="url(#paint2_linear_217_753)" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="5.64197" y1="17.4392" x2="12.142" y2="17.4392" stroke="url(#paint3_linear_217_753)" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="19.4865" cy="21.4323" r="5.51351" fill="#79CE4B"/>
+<g clip-path="url(#clip0_217_753)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.1665 19.1914C22.0466 19.2323 22.0283 19.2502 20.3987 20.9244L18.8135 22.5528L18.1919 21.917C17.4743 21.1829 17.5199 21.2185 17.2977 21.2185C17.0982 21.2184 17.0401 21.2502 16.8147 21.4828C16.5884 21.7164 16.5685 21.7557 16.5685 21.9671C16.5685 22.215 16.4947 22.1231 17.6318 23.2915C18.7061 24.3953 18.6547 24.3492 18.8139 24.3497C18.9754 24.3502 18.8391 24.4805 21.0024 22.2572C23.2551 19.942 23.0491 20.177 23.0491 19.9228C23.0491 19.7143 23.0286 19.6742 22.8013 19.4383C22.5534 19.181 22.3872 19.1163 22.1665 19.1914Z" fill="white"/>
+</g>
+</svg>

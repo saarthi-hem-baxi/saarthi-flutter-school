@@ -1,0 +1,210 @@
+{
+    "status": "SUCCESS",
+    "data": {
+        "precapDetails": {
+            "skipped": false,
+            "assingned": false,
+            "started": false,
+            "completed": false
+        },
+        "_id": "61e955c29803d33e0c43f333",
+        "school": "61e9474fb4b20647738bc5f9",
+        "class": "61e94835b4b20647738bc5fb",
+        "section": "61e95074b4b20647738bc5ff",
+        "subject": "61e94e53b4b20647738bc5fe",
+        "chapter": "61e9409cd5bd3009f3a23511",
+        "student": "61e93a17b4b20647738bc5f6",
+        "topics": [
+            {
+                "order": 0,
+                "started": false,
+                "topic": {
+                    "_id": "61e94139d5bd3009f3a23523",
+                    "name": "Fraction in details",
+                    "id": "61e94139d5bd3009f3a23523"
+                },
+                "cleared": false,
+                "concepts": [
+                    {
+                        "concept": {
+                            "name": {
+                                "en_US": "Fraction-Test"
+                            },
+                            "_id": "61e68e9b8dc6ad1131c43abd",
+                            "id": "61e68e9b8dc6ad1131c43abd"
+                        },
+                        "cleared": false,
+                        "keyLearnings": [],
+                        "_id": "61e955c29803d33e0c43f335"
+                    },
+                    {
+                        "concept": {
+                            "name": {
+                                "en_US": "What is fraction?"
+                            },
+                            "_id": "61e788218de8a6087b4bac7a",
+                            "id": "61e788218de8a6087b4bac7a"
+                        },
+                        "cleared": false,
+                        "keyLearnings": [],
+                        "_id": "61e955c29803d33e0c43f336"
+                    }
+                ],
+                "_id": "61e955c29803d33e0c43f334"
+            },
+            {
+                "order": 0,
+                "started": false,
+                "topic": {
+                    "_id": "61e94154d5bd3009f3a23527",
+                    "name": "Decimal in detail",
+                    "id": "61e94154d5bd3009f3a23527"
+                },
+                "cleared": false,
+                "concepts": [
+                    {
+                        "concept": {
+                            "name": {
+                                "en_US": "What is Decimal?"
+                            },
+                            "_id": "61e78b7e8dc6ad1131c43eca",
+                            "id": "61e78b7e8dc6ad1131c43eca"
+                        },
+                        "cleared": false,
+                        "keyLearnings": [],
+                        "_id": "61e955c29803d33e0c43f338"
+                    },
+                    {
+                        "concept": {
+                            "name": {
+                                "en_US": "Decimal-Test"
+                            },
+                            "_id": "61e69be18de8a6087b4baa7f",
+                            "id": "61e69be18de8a6087b4baa7f"
+                        },
+                        "cleared": false,
+                        "keyLearnings": [],
+                        "_id": "61e955c29803d33e0c43f339"
+                    }
+                ],
+                "_id": "61e955c29803d33e0c43f337"
+            }
+        ],
+        "unclearPreConcepts": [
+            {
+                "preConcept": {
+                    "name": {
+                        "en_US": "Basic Fraction-Test"
+                    },
+                    "_id": "61e68eb08dc6ad1131c43ac2",
+                    "id": "61e68eb08dc6ad1131c43ac2"
+                },
+                "topics": [
+                    "61e94139d5bd3009f3a23523"
+                ],
+                "cleared": false,
+                "clearedAt": "2022-02-03T05:18:04.046Z",
+                "unclearKeyLearnings": [
+                    {
+                        "keyLearning": {
+                            "name": {
+                                "en_US": "Denominator"
+                            },
+                            "_id": "61e695ff8dc6ad1131c43bb9",
+                            "id": "61e695ff8dc6ad1131c43bb9"
+                        },
+                        "cleared": false,
+                        "clearedAt": "2022-02-03T05:18:03.955Z",
+                        "_id": "61fb658c9827a26bc29c522d"
+                    },
+                    {
+                        "keyLearning": {
+                            "name": {
+                                "en_US": "Numerator"
+                            },
+                            "_id": "61e696068dc6ad1131c43bcd",
+                            "id": "61e696068dc6ad1131c43bcd"
+                        },
+                        "cleared": false,
+                        "clearedAt": "2022-02-03T05:18:03.955Z",
+                        "_id": "61fb658c9827a26bc29c522e"
+                    },
+                    {
+                        "keyLearning": {
+                            "name": {
+                                "en_US": "Multiplier"
+                            },
+                            "_id": "61e699188dc6ad1131c43c51",
+                            "id": "61e699188dc6ad1131c43c51"
+                        },
+                        "cleared": false,
+                        "clearedAt": "2022-02-03T05:18:03.955Z",
+                        "_id": "61fb658c9827a26bc29c522f"
+                    }
+                ],
+                "_id": "61fb658c9827a26bc29c522c"
+            },
+            {
+                "preConcept": {
+                    "name": {
+                        "en_US": "Types of Fractions"
+                    },
+                    "_id": "61e788f68dc6ad1131c43d63",
+                    "id": "61e788f68dc6ad1131c43d63"
+                },
+                "topics": [
+                    "61e94139d5bd3009f3a23523"
+                ],
+                "cleared": false,
+                "clearedAt": "2022-02-03T05:18:40.378Z",
+                "unclearKeyLearnings": [
+                    {
+                        "keyLearning": {
+                            "name": {
+                                "en_US": "PF1"
+                            },
+                            "_id": "61e7894d8dc6ad1131c43dd4",
+                            "id": "61e7894d8dc6ad1131c43dd4"
+                        },
+                        "cleared": false,
+                        "clearedAt": "2022-02-03T05:18:40.346Z",
+                        "_id": "61fb65b09827a26bc29c54df"
+                    },
+                    {
+                        "keyLearning": {
+                            "name": {
+                                "en_US": "IPF1"
+                            },
+                            "_id": "61e7898b8dc6ad1131c43e0e",
+                            "id": "61e7898b8dc6ad1131c43e0e"
+                        },
+                        "cleared": false,
+                        "clearedAt": "2022-02-03T05:18:40.346Z",
+                        "_id": "61fb65b09827a26bc29c54e0"
+                    },
+                    {
+                        "keyLearning": {
+                            "name": {
+                                "en_US": "IPF2"
+                            },
+                            "_id": "61e789978dc6ad1131c43e22",
+                            "id": "61e789978dc6ad1131c43e22"
+                        },
+                        "cleared": false,
+                        "clearedAt": "2022-02-03T05:18:40.346Z",
+                        "_id": "61fb65b09827a26bc29c54e1"
+                    }
+                ],
+                "_id": "61fb65b09827a26bc29c54de"
+            }
+        ],
+        "completion": 0,
+        "createdBy": "61e93a17b4b20647738bc5f6",
+        "updatedBy": "61e93a17b4b20647738bc5f6",
+        "status": "active",
+        "createdAt": "2022-01-20T12:29:54.842Z",
+        "updatedAt": "2022-01-20T12:29:54.842Z",
+        "__v": 0,
+        "id": "61e955c29803d33e0c43f333"
+    }
+}

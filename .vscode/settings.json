@@ -1,0 +1,7 @@
+{
+    "dart.lineLength": 150,
+    "editor.detectIndentation": false,
+    "editor.renderFinalNewline": "on",
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true
+}
